@@ -25,5 +25,5 @@ Anthony Pichardo - Race Detection Tool
   1. Install python2.7 and the relevant libraries
 
 ### Algorithms:
-  * Key ideas of algorithm briefly explained in Powerpoint. Face detection built upon Convoluted Neural Net provided by Face Plus Plus.
+  * Key ideas of algorithm briefly explained in Powerpoint. Face detection built upon Convolutional Neural Net provided by Face Plus Plus.
   
