@@ -1,6 +1,8 @@
 # RaceDetection
 Anthony Pichardo - Race Detection Tool
 
+View documentation folder for project presentation and architecture can be seen in Scope of Poc doc.
+
 * How To Use:
   1. Run racedetection.py
   1.Either drop an image onto the GUI or load an image using imports
